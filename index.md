@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Cloud Researcher
-subtitle: Artificial Intelligence Research Laboratory, ETRI
+title: Researcher
+subtitle: Department of Media and Communication, Sungkyunkwan University (SKKU)
 cover-img: /assets/img/itu-seokho-m4.jpg
 ---
 
