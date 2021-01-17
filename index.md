@@ -2,7 +2,7 @@
 layout: page
 title: Researcher
 subtitle: Department of Media and Communication, Sungkyunkwan University (SKKU)
-cover-img: /assets/img/itu-seokho-m4.jpg
+cover-img: /assets/img/HyeonPhoto.jpg
 ---
 
 <br/>
