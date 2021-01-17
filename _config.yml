@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: M.d. Byeong-Hyeon, Lee
+title: M.D. Byeong-Hyeon, Lee
 
 # [수정필요] 간단한 사이트 설명
 description: Acedemic Website of Byeong-Hyeon, Lee
@@ -14,9 +14,8 @@ author: Byeong-Hyeon, Lee
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "blog"
-  Project: "project"
-  GitHub: "https://github.com/HyeonBio"
+  Blog: "https://ethan-lee.tistory.com/"
+  GitHub: "https://github.com/Ethan-leee/HyeonBio"
   Google Scholar: "https://scholar.google.com/citations?user=KL1d5KsAAAAJ&hl=ko"
 
 
