@@ -28,25 +28,25 @@ title: Research Career
 
 # SCHOLARSHIPS
 
-* SimSan Scholarship, SKKU, Spring Semester, 2020
+#### SimSan Scholarship, SKKU, Spring Semester, 2020
  * A person recommended by a departmental teacher for the selection of excellent graduate students and the promotion of their desire for research.
 
-* SimSan Scholarship, SKKU, Fall Semester, 2019 
+#### SimSan Scholarship, SKKU, Fall Semester, 2019 
  * A person recommended by a departmental teacher for the selection of excellent graduate students and the promotion of their desire for research.
 
-* SimSan Scholarship, SKKU, Spring Semester, 2019 
+#### SimSan Scholarship, SKKU, Spring Semester, 2019 
  * A person recommended by a departmental teacher for the selection of excellent graduate students and the promotion of their desire for research.
 
-* SimSan Scholarship, SKKU, Fall Semester, 2018 
+#### SimSan Scholarship, SKKU, Fall Semester, 2018 
  *	A person recommended by a departmental teacher for the selection of excellent graduate students and the promotion of their desire for research.
 
-* Self-governing Scholarship, MJU, Fall Semester, 2017 
+#### Self-governing Scholarship, MJU, Fall Semester, 2017 
  * A person elected and appointed according to the regulations of the student self-governing body and its affiliated institutions recognized by the president, recommended by the dean or department head, and recommended by the head of the relevant organization.
 
-* Education and Training Scholarship, MJU, Fall Semester, 2017
+#### Education and Training Scholarship, MJU, Fall Semester, 2017
  * A person who has participated in educational programs organized by our university (including language, mentoring, computer, major-related job training, and employment-related certification courses (including private sector) and was recommended by the head of the relevant department.
 
-* Self-governing Scholarship, MJU, Spring Semester, 2017
+#### Self-governing Scholarship, MJU, Spring Semester, 2017
  * A person elected and appointed according to the regulations of the student self-governing body and its affiliated institutions recognized by the president, recommended by the dean or department head, and recommended by the head of the relevant organization.
 
 <br/>
