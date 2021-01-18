@@ -9,9 +9,6 @@ I can also be found from [Google Scholar](https://scholar.google.com/citations?u
 
 ### Journal Papers
 
-#### International
-
-
 #### Domestic
 
 - **Lee, B.-H.**, & Chung, S. (2020). To what degree does perceived message effectiveness reflect actual message effect? Perceived vs. actual message effect in persuasive campaigns. *Korean Journal of Journalism and Communication Studies, 64*(6), 319–352.
