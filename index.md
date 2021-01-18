@@ -18,8 +18,8 @@ He loves to bring new ideas and share it with collaborators. Hello world! &#1285
 
 ## Contact
 
-```
-Affiliation: Department of Media and Communication, Sungkyunkwan University (SKKU)
+
+**Affiliation: Department of Media and Communication, Sungkyunkwan University (SKKU)
 Office: Seoul, Republic of Korea
 Email: zkfldb@gmail.com
-```
+
